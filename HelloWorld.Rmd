@@ -1,0 +1,8 @@
+---
+title: "Hello World"
+author: "Mav Ioan"
+date: "14/10/2020"
+output: pdf_document
+---
+
+## This is a markdown file
